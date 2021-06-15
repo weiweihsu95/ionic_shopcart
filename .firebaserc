@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ionic-shopcart": {
+      "hosting": {
+        "app": [
+          "ionic-shopcart"
+        ]
+      }
+    }
+  }
+}
